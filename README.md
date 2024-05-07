@@ -73,8 +73,9 @@ print(summary)
 ```
 
 <H3>Output</H3>
-![image](https://github.com/Ranjanranjan/Ex-7-AAI/assets/130027697/db428b8c-e879-4d45-8914-6485971eb48c)
 
+
+![image](https://github.com/Ranjanranjan/Ex-7-AAI/assets/130027697/d21e1997-8cee-4940-a159-d85df51e1501)
 
 
 
